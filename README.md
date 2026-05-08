@@ -59,7 +59,7 @@
 
 ### 💻 Featured Projects
 
-#### 🎵 [Clef — Teaching & Course Management Platform](https://github.com/Enigmazer/clef-backend) &nbsp;|&nbsp; [Live Demo](https://clefapp.vercel.app/)
+#### [Clef — Teaching & Course Management Platform](https://github.com/Enigmazer/clef-backend) &nbsp;|&nbsp; [Live Demo](https://clefapp.vercel.app/)
 
 *A full-stack platform so no student ever loses track of where the class is, what's been covered, and what comes next.*
 
@@ -75,7 +75,7 @@
 
 ---
 
-#### ✅ [ToDo Master — Task Management System](https://github.com/Enigmazer/todo_app) &nbsp;|&nbsp; [Live Demo](https://todo--master.vercel.app/)
+#### [ToDo Master — Task Management System](https://github.com/Enigmazer/todo_app) &nbsp;|&nbsp; [Live Demo](https://todo--master.vercel.app/)
 
 Full-stack task management app with RBAC, OAuth2 + JWT auth, task filtering by status and due date, and admin controls for user management. Deployed on Render & Vercel.
 
